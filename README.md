@@ -1,3 +1,13 @@
+##Π2017178
+
+##ΠΗΝΕΛΟΠΗ ΣΙΜΤΣΗ
+
+##LINK ΤΟΥ ΑΠΟΘΕΤΗΡΙΟΥ https://github.com/p17simt/D3js-US-educational-attainment
+
+##LINK ΣΤΟ ΚΛΑΔΙ ΤΟΥ ΚΩΔΙΚΑ ΠΟΥ ΑΝΤΙΣΤΟΙΧΕΙ ΣΤΟ ΠΑΡΑΔΟΤΕΟ https://github.com/p17simt/D3js-US-educational-attainment/tree/2017178
+
+##LINK ΣΤΟ ΕΚΤΕΛΕΣΙΜΟ https://p17simt.github.io/D3js-US-educational-attainment/
+
 # Οπτικοποίηση δεδομένων εκπαιδευτικού συστήματος (USA)
 
 ## Προετοιμασία
